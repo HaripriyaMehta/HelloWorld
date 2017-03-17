@@ -1,0 +1,41 @@
+body{
+    background-color: lightblue;
+    background-image: url("red_sky.png");
+    background-repeat: repeat-y;
+    background-attachment: scroll;
+
+}
+
+h1{
+	color: blue;
+    margin-left: 20px;
+    font-size: 12px;
+	font-family: “Courier New”, Courier, monospace
+}
+
+h2{
+	color: pink;
+    margin-left: 10px;
+    font-size: 40px;
+	font-family: “Courier New”, Courier, monospace
+}
+#intro {
+	color: red;
+}
+
+.body {
+	color: orange;
+}
+
+#conclusion {
+	color: green;
+}
+
+div {
+	width: 700px;
+	height: 500px;
+	margin: 15px 5px 10px 15px
+	padding: 10px;
+	border-style: dotted solid double dashed;
+
+}
