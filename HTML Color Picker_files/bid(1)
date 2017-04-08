@@ -1,0 +1,14 @@
+window.epbjs.sovrnResponse({
+  "id" : "3225b92694d2611",
+  "seatbid" : [ {
+    "bid" : [ {
+      "id" : "a_349983_9a55f830b74a48289d18394eb50e0086",
+      "impid" : "2851b1f721a5f37",
+      "price" : 4.125,
+      "nurl" : "https://vap5iad1.lijit.com/www/delivery/lg.php?bannerid=33339&campaignid=662&rtb_tid=432bd866-683d-4f44-a486-2ec5b812416d&rpid=3&did=FLSRN5&seatid=100309&zoneid=349983&cb=01518065&tid=a_349983_9a55f830b74a48289d18394eb50e0086",
+      "adm" : "%3Cscript%20language%3D'JavaScript'%20src%3D'https%3A%2F%2Ftags.mathtag.com%2Fnotify%2Fjs%3Fexch%3Dlij%26id%3D5aW95q2jLzEzLyAvTTJFNU5UVTROR1F0WWpabE9TMDBNekF3TFRneU9XTXRNVFV3TURRMll6ZzBOR1ZtLzUxODQzODg5NTcyMzY5MDI4OTIvMjQ3MjE5NC8xNDkwMDk0LzE3L0pvMzFoSVhJZHVXbi1LVXZxM2QwOGY5SzZzUzNsTms4NE1nNGlPOGxuVlUvMS8xNy8xNDg4NDE3MjIxLzAvMzUwODk2LzMxNDM5NTExMC8xMjU0MjMvMjU0NDIwLzEvMTA1MzgxMS8yL01EQXdNREF3TURBdE1EQXdNQzB3TURBd0xUQXdNREF0TURBd01EQXdNREF3TURBdy8wLzAvMTMxMzIzLzAvMC8%2FhLoHqH1n7UUCSETY7pXcrsPk6EM%26sid%3D1490094%26cid%3D2472194%26nodeid%3D799%26price%3D5.0%26group%3D%26auctionid%3D5184388957236902892%26bp%3Dg_digigb%263pck%3D%40CKURLE%40'%3E%3C%2Fscript%3E",
+      "h" : 600,
+      "w" : 300
+    } ]
+  } ]
+})
