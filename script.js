@@ -29,7 +29,7 @@ function changeImage() {
     var image = document.getElementById("beaver");
 	var imageURL1 = "http://web.mit.edu/graphicidentity/images/examples/tim-the-beaver-1.png";
 	var imageURL2 = "https://slice.mit.edu/wp-content/uploads/2013/11/Beaver_Slice_22.jpg";
-	var imageURL3 = "http://cdn1-www.craveonline.com/assets/mandatory/legacy/2016/04/man_file_1067023_beavertakesmanhostage.jpg";
+	var imageURL3 = "beaver.png";
     if (image.src == imageURL1) {
         image.src = imageURL2;
     }
