@@ -1,0 +1,17 @@
+body{
+    background-color: lightgreen;
+    background-repeat: repeat-y;
+    background-attachment: scroll;
+}
+
+#margintester{
+	margin: 75px;
+}
+
+#colorful{
+	color: darkblue;
+}
+
+#menu-dropdown{
+	display: inline-grid;
+}

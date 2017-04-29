@@ -21,9 +21,13 @@ function count(){
 }
 
 
-function enter(){
-	document.getElementById("name").innerHTML += "<br>" + document.getElementById("textInput").value;
+function input(textbox) {
+	if(event.keyCode == 13) {
+		var output = document.getElementById('output');
+		output.innerHTML += "<br>" + textbox.value;
 }
+}
+
 
 function changeImage() {
     var image = document.getElementById("beaver");
