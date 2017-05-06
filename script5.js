@@ -1,4 +1,18 @@
 //Change CSS
+ul {
+	list-style-type:none;
+	margin: 0;
+	padding: 0;
+}
+
+li {
+	float: left;
+}
+li a {
+	display: block;
+	padding: 8px;
+	background-color: anything
+
 function changeCSS(){
 	if (document.body.style.background == "lightgreen") {
         document.body.style.background = "pink";
